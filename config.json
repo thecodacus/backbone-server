@@ -1,0 +1,8 @@
+{
+  "port": 3000,
+  "tokenLife": 900,
+  "refreshTokenLife": 86400,
+  "environment":"development",
+  "dbHost":"rethinkdb",
+  "dbPort":8080
+}
